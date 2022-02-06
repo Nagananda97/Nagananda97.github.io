@@ -2557,6 +2557,13 @@ input, select, textarea {
 				.wrapper.style4-alt .icon.major:before {
 					color: #b74e91;
 				}
+				.wrapper.style5 .icon.major:before {
+					color: #b74e91;
+				}
+
+				.wrapper.style5-alt .icon.major:before {
+					color: #b74e91;
+				}
 				.wrapper.style3 .icon.major:before {
 					color: #b74e91;
 				}
@@ -3267,6 +3274,13 @@ input, select, textarea {
 		.wrapper.style4-alt {
 			background-color: #50b5b5;
 		}
+		.wrapper.style5 {
+			background-color: #633e94;
+		}
+
+		.wrapper.style5-alt {
+			background-color: #7f50b5;
+		}
 
 		.wrapper.style3 {
 			background-color: #b74e91;
@@ -3920,3 +3934,5 @@ input, select, textarea {
 			}
 
 		}
+		.left{display:inline-block}
+		.right{display:inline-block; }
